@@ -1,3 +1,3 @@
-# GOSH-FHIRworks2020-GraphFHIR
+# GOSH-FHIRworks2020-HygieneVR
 
 
