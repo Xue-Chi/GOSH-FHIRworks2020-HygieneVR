@@ -11,4 +11,6 @@ Try building it onto the quest.
 Hand tracking function will be provided for clicking buttons.
 
 ## Demonstration
-![img](screenshots/1.png)
+<img width="683" alt="0" src="https://user-images.githubusercontent.com/43610529/77289683-57314480-6cd2-11ea-9581-43e2708b9b9e.png">
+
+<img width="682" alt="1" src="https://user-images.githubusercontent.com/43610529/77289689-5ac4cb80-6cd2-11ea-964e-66abc66f6c02.png">
